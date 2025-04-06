@@ -50,6 +50,8 @@ static const Rule rules[] = {
 	{ "Firefox",  NULL,       NULL,       1 << 8,       1,           -1,	    0,0,1912,1047,	4},
 	{ "Brave",    NULL,       NULL,       1 << 8,       1,           -1,	     0,0,1912,1047,	4},
 	{ "Chromium",    NULL,       NULL,    1 << 8,       1,           -1,		0,0,1912,1047,	4},
+	{ "librewolf",    NULL,       NULL,    1 << 8,       1,           -1,		0,0,1912,1047,	4},
+	{ "Librewolf",    NULL,       NULL,    1 << 8,       1,           -1,		0,0,1912,1047,	4},
 };
 
 /* layout(s) */
